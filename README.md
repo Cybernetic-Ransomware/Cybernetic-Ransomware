@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cybernetic-Ransomware
-- 👀 I’m interested in change the industry in which I currently work as PM.
-- 🌱 Now I’m learning Python.
-- 💞️ I’m looking to collaborate on apps.
+- 👀 I'm interested in change my profession. I work current as a PM in machine construction.
+- 🌱 Now I’m learning Python libraries.
+- 💞️ I’m looking to collaborate on new apps.
 - 📫 How to reach me: by comments.
 
 <!---
