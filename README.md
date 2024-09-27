@@ -29,16 +29,6 @@ Feel free to connect with me here on GitHub or via email at [aleksander.marszalk
 
 
 ```mermaid
-%%{init:{'theme':'dark'}}%%
-
-pie title What Voldemort doesn't have?
-         "FRIENDS" : 2
-         "FAMILY" : 3
-         "NOSE" : 45
-
-```
-
-```mermaid
 pie title What Voldemort doesn't have?
          "FRIENDS" : 2
          "FAMILY" : 3
