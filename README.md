@@ -26,3 +26,22 @@ I’m also excited to dive deeper into:
 📫 How to reach me:
 
 Feel free to connect with me here on GitHub or via email at [aleksander.marszalkiewicz.pp@gmail.com].
+
+
+```mermaid
+%%{init:{'theme':'dark'}}%%
+
+pie title What Voldemort doesn't have?
+         "FRIENDS" : 2
+         "FAMILY" : 3
+         "NOSE" : 45
+
+```
+
+```mermaid
+pie title What Voldemort doesn't have?
+         "FRIENDS" : 2
+         "FAMILY" : 3
+         "NOSE" : 45
+
+```
