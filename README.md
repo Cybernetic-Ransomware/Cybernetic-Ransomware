@@ -22,6 +22,7 @@ I’m also excited to dive deeper into:
     Data: T-SQL, Data Warehousing, ETL
     Systems: ERP Implementation & Administration (MS Dynamics, IFS, Comarch, Symfonia)
     Web Development: (Django, Flask, FastAPI)
+    ML: Flux-dev, Nvidia Nemotronc custopm LoRAs
 
 📫 How to reach me:
 
