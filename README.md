@@ -21,8 +21,8 @@ I’m also excited to dive deeper into:
     Containers: Docker, Docker Compose, Kubernetes
     Data: T-SQL, Data Warehousing, ETL
     Systems: ERP Implementation & Administration (MS Dynamics, IFS, Comarch, Symfonia)
-    Web Development: (Django, Flask, FastAPI)
-    ML: Flux-dev, Nvidia Nemotron, custopm LoRAs
+    Web Development: (Django, Flask, FastAPI, Streamlit)
+    ML: Flux-dev, Nvidia Nemotron, Cosmos, custom LoRAs, Google Gemma
 
 📫 How to reach me:
 
