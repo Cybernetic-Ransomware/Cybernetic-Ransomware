@@ -2,7 +2,7 @@ Hi, I’m Cybernetic-Ransomware
 aka Aleksander
 
 ---
-My buissnes site:
+My buissnes site [PL]:
 [link](https://cr-business-card-single.statichost.page/)
 
 ---
