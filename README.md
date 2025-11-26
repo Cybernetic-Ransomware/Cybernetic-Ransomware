@@ -1,5 +1,10 @@
 Hi, I’m Cybernetic-Ransomware
 aka Aleksander
+
+---
+My buissnes site:
+https://cr-business-card-single.statichost.page/
+
 ---
 👨‍💻 About Me
 
