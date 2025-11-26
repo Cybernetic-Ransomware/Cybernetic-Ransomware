@@ -3,7 +3,7 @@ aka Aleksander
 
 ---
 My buissnes site:
-https://cr-business-card-single.statichost.page/
+[link](https://cr-business-card-single.statichost.page/)
 
 ---
 👨‍💻 About Me
