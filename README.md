@@ -2,10 +2,6 @@ Hi, I’m Cybernetic-Ransomware
 aka Aleksander
 
 ---
-My buissnes site [PL]:\
-[link](https://cr-business-card-single.statichost.page/)
-
----
 👨‍💻 About Me
 
 I'm a passionate software developer currently working in a creative agency, with a diverse background in project management, ERP systems, and data warehousing. My journey started as a Project Manager in the machine construction industry, where I learned the importance of structure and process. I then transitioned into commercial implementing ERP systems, and later administering one of them, including working with T-SQL-based data warehouses.
@@ -32,3 +28,5 @@ I’m also excited to dive deeper into:
 📫 How to reach me:
 
 Feel free to connect with me here on GitHub or via email at [aleksander.marszalkiewicz.pp@gmail.com].
+
+My buissnes site: [link](https://cr-business-card-single.statichost.page/) [PL]
