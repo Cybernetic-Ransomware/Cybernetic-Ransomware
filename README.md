@@ -29,4 +29,4 @@ I’m also excited to dive deeper into:
 
 Feel free to connect with me here on GitHub or via email at [aleksander.marszalkiewicz.pp@gmail.com].
 
-My buissnes site: [link](https://cr-business-card-single.statichost.page/) [PL]
+My buissnes site: [PL link](https://cr-business-card-single.statichost.page/
