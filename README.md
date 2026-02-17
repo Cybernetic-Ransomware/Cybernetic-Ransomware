@@ -152,3 +152,4 @@ flowchart LR
 - 📄 CV: available on the business site
     
 I prefer concrete problems, clear ownership, and systems that survive contact with reality.
+I currently code with repositories on Bitbucket.
