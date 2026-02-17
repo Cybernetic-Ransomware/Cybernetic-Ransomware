@@ -151,5 +151,5 @@ flowchart LR
 - 🌐 Business card: [https://cr-business-card-single.statichost.page/](https://cr-business-card-single.statichost.page/)
 - 📄 CV: available on the business site
     
-I prefer concrete problems, clear ownership, and systems that survive contact with reality.
+I prefer concrete problems, clear ownership, and systems that survive contact with reality.\
 I currently code with repositories on Bitbucket.
