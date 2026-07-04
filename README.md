@@ -1,67 +1,32 @@
-# Hi, I’m Cybernetic-Ransomware  
-**aka Aleksander Marszałkiewicz**
+# Aleksander Marszałkiewicz
 
----
+Python backend developer working around ERP automation, production workflows, data-heavy services, and internal business tooling.
 
-## 👨‍💻 About Me
+Most of my commercial work lives in private Bitbucket repositories, where I develop Odoo ERP customizations and supporting microservices for automating workflows in a large-format digital printing company.
 
-I’m a **Python backend developer** focused on building reliable, data-heavy systems and service-oriented architectures.
+This GitHub profile contains public projects, templates, and experiments that show my backend, integration, data processing, and deployment work.
 
-My work combines backend engineering, data pipelines, and DevOps practices, with hands-on experience in automation and applied ML systems (especially OCR and vision-language workflows).
+## Public projects worth checking
 
-I have **4+ years of professional experience working with Python**, across ERP systems, data platforms, and custom backend services.
+### Animals Healthcare Application
+Django monolith with PostgreSQL, CouchDB, Redis, Celery, Docker, tests, linting, ADRs, and notification workflows.
 
-Before moving fully into software development, I worked in **project management and ERP implementations**, which left me with a high tolerance for legacy systems, unclear requirements, and things that “should work but don’t”.
+### Travel Planner
+FastAPI backend for importing Google Maps saved places, enriching them with Google APIs, and optimizing visit routes.
 
----
+### GraphQL + SQLAlchemy + FastAPI template
+Small API template combining REST, GraphQL, SQLAlchemy, uv, just, linting, and multiple database backends.
 
-## 🚀 Current Focus
+## Main areas
 
-- Backend services (FastAPI, Django)
-- Data processing & pipelines (Polars, PostgreSQL, TimescaleDB)
-- Distributed systems (Celery, Kafka, RabbitMQ)
-- Observability & reliability (Grafana, Sentry)
-- Automation & ML-assisted workflows (OCR, VLMs)
+- Python backend: FastAPI, Django, SQLAlchemy
+- ERP / Odoo automation
+- APIs, integrations, internal tools
+- Async jobs and data workflows
+- Dockerized local-first / on-prem systems
+- Applied AI/OCR/LLM integrations where they solve boring real problems
 
----
+## More
 
-## 🧪 Technologies & Skills
-
-### Backend & Programming
-- Python (3.12+)
-- FastAPI, Django
-- Async processing & task queues (Celery)
-
-### Data & Messaging
-- Polars, Pandas
-- PostgreSQL, TimescaleDB
-- Kafka, RabbitMQ
-- ETL & data warehousing
-
-### DevOps & Infrastructure
-- Docker, Docker Compose
-- Kubernetes (basics)
-- Local-first / on-prem environments
-
-### ML / AI (Applied)
-- OCR pipelines (Tesseract)
-- Vision-Language workflows
-- LangChain, LangSmith
-- Practical integration of LLM/VLM APIs
-
----
-
-## 🧭 Direction
-
-- Building more **robust and observable backend systems**
-- Moving towards **high-performance services (Go / Rust)**
-- Improving system design under real production constraints
-
----
-
-## 📫 Contact
-- 📧 Email: [aleksander.marszalkiewicz@protonmail.com](mailto:aleksander.marszalkiewicz@protonmail.com)
-- 🌐 Business card: https://cr-business-card-single.statichost.page/
-- 📄 CV: available on the business site
-
-I prefer concrete problems, clear ownership, and systems that survive contact with reality.
+Business card, contact, and CV:
+https://cr-business-card-single.statichost.page/
